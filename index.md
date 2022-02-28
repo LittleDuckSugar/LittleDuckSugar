@@ -1,4 +1,4 @@
-## Welcome to my portfolio
+## Antoine BERNARD
 
 You can use the [editor on GitHub](https://github.com/LittleDuckSugar/LittleDuckSugar/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
