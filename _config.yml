@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 title: A portfolio on the web
 description: Here you have a portfolio from a random guy named Antoine
 show_downloads: false
+
+github:
+  linkedin: https://www.linkedin.com/in/aberna/
