@@ -1,5 +1,7 @@
 ---
 layout: project
+name: MyOwme
+start_date: 2021
 ---
 SmartSensor provide tools better handling thermals inside a given place.
 Sensors connected over WiFi, databases, APIs... 
