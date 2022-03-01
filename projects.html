@@ -4,7 +4,8 @@ title: Projects
 <h1>Projects</h1>
 
 <ul>
-  {% for project in site.projects %}
+  {% assign random_project_order = site.projects | sample: site.projects.size %}
+  {% for project in random_project_order %}
     <li>
       <h2><a href="/LittleDuckSugar{{ project.url }}">{{ project.name }}</a></h2>
       <h3>{{ project.start_date }}</h3>
