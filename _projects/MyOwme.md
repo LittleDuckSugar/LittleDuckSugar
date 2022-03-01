@@ -1,7 +1,7 @@
 ---
-layout: project
 name: MyOwme
 start_date: 2020
+status : Working
 ---
 MyOwme as to in a mid term range replace Google Home from Google and Alexa from Amazon.
 Our goal is to provide better functionnalities while keeping data private.
