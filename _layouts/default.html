@@ -24,7 +24,9 @@
     {% if page.show_social %}
       <a href="{{ site.link.linkedin }}" class="btn" target="_blank">Follow me on LinkedIn</a>
       <a href="{{ site.link.github }}" class="btn" target="_blank">Follow me on GitHub</a>
-      <!-- <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a> -->
+    {% endif %}
+    {% if page.is_project %}
+      <a href="{{ page.project_url }}" class="btn">View on GitHub</a>
     {% endif %}
     {% if site.show_downloads %}
       <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
