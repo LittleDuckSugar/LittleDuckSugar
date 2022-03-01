@@ -3,6 +3,12 @@ title: Yet, an other portfolio
 description: A portfolio from a random guy named Antoine
 show_downloads: false
 
+social:
+  name: Antoine BERNARD
+  links:
+    - https://www.linkedin.com/in/aberna
+    - https://github.com/LittleDuckSugar
+
 collections:
   authors:
     output: true
@@ -32,4 +38,4 @@ defaults:
 
 link:
   linkedin: https://www.linkedin.com/in/aberna/
-  github: https://www.github.com/LittleDuckSugar
+  github: https://github.com/LittleDuckSugar

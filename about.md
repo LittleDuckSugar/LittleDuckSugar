@@ -1,5 +1,6 @@
 ---
 title: About me
+show_social: true
 ---
 ## Introduction
 ### Bio
