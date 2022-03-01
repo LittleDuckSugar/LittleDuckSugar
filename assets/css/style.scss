@@ -15,10 +15,11 @@ $titleFont: 'BlinkMacSystemFont';
                 margin: 0px 20px;
             }
             &__link {
+                color: $primaryColor;
                 font-weight: bold;
                 font-size: 20px;
                 &:hover {
-                    color: $primaryColor;
+                    color: #71acd7;
                 }
             }
         }
