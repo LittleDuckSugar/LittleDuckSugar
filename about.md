@@ -1,6 +1,5 @@
 ---
-layout: default
-title: About
+title: About me
 ---
 ## Introduction
 ### Bio
