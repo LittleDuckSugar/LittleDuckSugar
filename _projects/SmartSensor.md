@@ -8,6 +8,7 @@ dev_name: me
 owner_url: https://github.com/LittleDuckSugar
 categories: IoT
 langages: Go Arduino
+description: Go | Arduino | Grafana | InfluxDB
 ---
 SmartSensor provide tools better handling thermals inside a given place.
 Sensors connected over WiFi, databases, APIs... 
