@@ -4,6 +4,7 @@
         {% for item in site.data.navigation %}
         <a class="nav__item nav__link" href="/LittleDuckSugar{{ item.link }}" {% if page.url==item.link %}style="color: red;" {% endif %}>
             {{ item.name }}
+            {{ item.link }}
         </a>
         {% endfor %}
     </ul>
