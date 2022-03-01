@@ -1,4 +1,7 @@
 ---
 ---
 
+@import './helpers/variables';
+@import './layouts/header';
+
 @import "{{ site.theme }}";

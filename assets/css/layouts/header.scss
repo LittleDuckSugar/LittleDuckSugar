@@ -1,0 +1,21 @@
+.header {
+    &__nav {
+        .nav {
+            &__list {
+                display: flex;
+                align-items: center;
+                list-style: none;
+            }
+            &__item {
+                margin: 0px 20px;
+            }
+            &__link {
+                font-weight: bold;
+                font-size: 20px;
+                &:hover {
+                    color: $primaryColor;
+                }
+            }
+        }
+    }
+}
