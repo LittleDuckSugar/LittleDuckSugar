@@ -20,7 +20,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-  -scope:
+  - scope:
       path: ""
       type: "projects"
     values:
