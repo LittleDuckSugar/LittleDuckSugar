@@ -1,9 +1,11 @@
 <nav>
     <ul class="nav__list">
         {% for item in site.data.navigation %}
-        <a class="nav__item nav__link" href="/LittleDuckSugar{{ item.link }}" {% if page.url==item.link %}style="color: red;" {% endif %}>
-            {{ item.name }}
-        </a>
+        <li class="nav__item">
+            <a class="nav__link" href="/LittleDuckSugar{{ item.link }}" {% if page.url==item.link %}style="color: red;" {% endif %}>
+                {{ item.name }}
+            </a>
+        </li>
         {% endfor %}
     </ul>
 </nav>
