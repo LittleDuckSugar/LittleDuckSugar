@@ -1,37 +1,22 @@
-## Welcome to my portfolio
+## Introduction
+### Bio
 
-You can use the [editor on GitHub](https://github.com/LittleDuckSugar/LittleDuckSugar/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Antoine, I'm 21 (build 2000-07) !
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm currently in my 3rd years in an [IT school](https://www.ynov-paris.com/).
+I passed a diploma in electrical engineering and industrial computer science in the [IUT de Belfort-Montbéliard](http://www.iut-bm.univ-fcomte.fr/) in 2020.
+I'm in love with drama, electronics and IT. Before everything, I want to share what I know with others.
 
-### Markdown
+<!-- Add card like a contact card -->
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## More about me
 
-```markdown
-Syntax highlighted code block
+Since my childhood....
 
-# Header 1
-## Header 2
-### Header 3
+## Work work work work work
 
-- Bulleted
-- List
+Ananké, library, PYC
 
-1. Numbered
-2. List
+## Activities
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LittleDuckSugar/LittleDuckSugar/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Drama, cycling
