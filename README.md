@@ -26,4 +26,4 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/aberna/)
 
 Hope you enjoy! 🙃
 
-> Note : you can find the page and more about me [here](https://littleducksugar.github.io/LittleDuckSugar/).
+> Note : you can find this page and more about me [here](https://littleducksugar.github.io/LittleDuckSugar/).
