@@ -3,7 +3,7 @@
 
 My name is Antoine, I'm 23 (build 2000-07) !
 
-I currently work at [Framatome](https://www.framatome.com/fr/) ☢️ as an operational pilot for running IT projects.
+I currently work at ☢️ [Framatome](https://www.framatome.com/fr/) ☢️ as an operational pilot for running IT projects.
 <br>
 I spent a year working here and there, testing other things.
 <br>
@@ -24,4 +24,4 @@ I'm in love with drama, electronics and IT. Before everything, I want to share w
 
 Contact me on [LinkedIn](https://www.linkedin.com/in/aberna/)
 
-Hope you enjoy!
+Hope you enjoy! 🙃

@@ -1,13 +1,12 @@
 ---
 title: Home
-show_social: true
 description: 48 6f 70 65 20 79 6f 75 20 65 6e 6a 6f 79 21
 ---
 ## Me
 
 My name is Antoine, I'm 23 (build 2000-07) !
 
-I currently work at [Framatome](https://www.framatome.com/fr/) ☢️ as an operational pilot for running IT projects.
+I currently work at ☢️ [Framatome](https://www.framatome.com/fr/) ☢️ as an operational pilot for running IT projects.
 <br>
 I spent a year working here and there, testing other things.
 <br>
