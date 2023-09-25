@@ -1,40 +1,31 @@
 ---
 title: Home
+show_social: true
+description: 48 6f 70 65 20 79 6f 75 20 65 6e 6a 6f 79 21
 ---
-## Antoine BERNARD
+## Me
 
-You can use the [editor on GitHub](https://github.com/LittleDuckSugar/LittleDuckSugar/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Antoine, I'm 23 (build 2000-07) !
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I currently work at [Framatome](https://www.framatome.com/fr/) ☢️ as an operational pilot for running IT projects.
+<br>
+I spent a year working here and there, testing other things.
+<br>
+I was a teacher in IT when I passed my first IT diploma.
+<br>
+I also worked in many other company like [Owlint](https://owlint.fr/) as a back-end dev and [ANANKÉ](https://ananke.eu/en/ananke-cogeneration-heat-recovery/) as an apprentice.
 
-### Markdown
+I'm back to school with [ESGI](https://www.esgi.fr/campus-lyon.html) in a management courses.
+<br>
+I passed a diploma in IT at [Ynov](https://www.ynov-paris.com/) in 2022.
+<br>
+I passed a diploma in electrical engineering and industrial computer science in the [IUT de Belfort-Montbéliard](http://www.iut-bm.univ-fcomte.fr/) in 2020.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+I'm in love with drama, electronics and IT. Before everything, I want to share what I know with others.
 
-# Header 1
-## Header 2
-### Header 3
+## Contact
 
-- Bulleted
-- List
+Contact me on [LinkedIn](https://www.linkedin.com/in/aberna/)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LittleDuckSugar/LittleDuckSugar/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Hope you enjoy! 🙃
