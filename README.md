@@ -25,3 +25,5 @@ I'm in love with drama, electronics and IT. Before everything, I want to share w
 Contact me on [LinkedIn](https://www.linkedin.com/in/aberna/)
 
 Hope you enjoy! 🙃
+
+> Note : you can find the page and more about me [here](https://littleducksugar.github.io/LittleDuckSugar/).
